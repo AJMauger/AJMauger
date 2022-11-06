@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in elementary particles, fugus and molds
-- 🌱 I’m currently asleep
-- 💞️ I’m looking to collaborate on chopsticks
+- 👀 I’m interested in elementary particles
+- 🌱 I’m currently chasing a lepton
+- 💞️ I’m looking to collaborate on hadrons
 - 📫 How to reach me go left, then right
 
 <!---
