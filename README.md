@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Adam
-- 👀 I’m interested in elementary particles
-- 🌱 I’m currently chasing a lepton
-- 💞️ I’m looking to collaborate on hadrons
-- 📫 How to reach me go left, then right
+- Hi, I’m Adam Mauger - this site contains sandpit projects I have created.
 
 <!---
 AJMauger/AJMauger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
